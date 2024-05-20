@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/acute-covid-19-infection---primary.py
+inputModule3:
+  class: File
+  path: python/covid-19-infection-antibody---primary.py
+inputModule4:
+  class: File
+  path: python/covid-19-infection-assay---primary.py
+inputModule5:
+  class: File
+  path: python/covid-19-infection-speciman---primary.py
+inputModule6:
+  class: File
+  path: python/covid-19-infection-serum---primary.py
+inputModule7:
+  class: File
+  path: python/covid-19-infection-confirmed---primary.py
+inputModule8:
+  class: File
+  path: python/covid-19-infection-detected---primary.py
+inputModule9:
+  class: File
+  path: python/covid-19-infection-scale---primary.py
+inputModule10:
+  class: File
+  path: python/covid-19-infection-coronavirus---primary.py
+inputModule11:
+  class: File
+  path: python/ribonucleic-covid-19-infection---primary.py
+inputModule12:
+  class: File
+  path: python/covid-19-infection-antigen---primary.py
+inputModule13:
+  class: File
+  path: python/covid-19-infection-detection---primary.py
+inputModule14:
+  class: File
+  path: python/covid-19-infection-reference---primary.py
+inputModule15:
+  class: File
+  path: python/positive-covid-19-infection---primary.py
+inputModule16:
+  class: File
+  path: python/covid-19-infection-severity---primary.py
+inputModule17:
+  class: File
+  path: python/covid-19-infection-identified---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
